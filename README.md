@@ -2,8 +2,6 @@
 
 End-to-end SaaS Template using AWS Amplify, Apollo Client, Chakra, and NextJS.
 
-![](https://imgur.com/0Q8LTqa.png)
-
 ![YouTube Channel](https://img.shields.io/youtube/views/SUjTIX0a1PM?style=social)
 ![YouTube Channel](https://img.shields.io/youtube/likes/SUjTIX0a1PM?style=social)
 ![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCMo28ATCDU0Kn9dpilAF79Q?style=social)
@@ -201,11 +199,6 @@ Authentication should work smoothly at this point - now, start building your Saa
 If you want to use different environments (dev and prod), simply set up Pulumi in a different environment, and paste the output into the `front-end/deployment/config/config-production.ts`.
 
 Similarly, create an **environment variable** in the Amplify Console for the production environment called `NEXT_PUBLIC_CLOUD_ENV` with the value `prod`.
-
-## Get Help
-
-- Reach out on [Twitter](https://twitter.com/SimonHoiberg)
-- Open an [issue](https://github.com/SimonHoiberg/saas-template/issues/new)
 
 ## Contribute
 
