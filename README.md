@@ -2,10 +2,6 @@
 
 End-to-end SaaS Template using AWS Amplify, Apollo Client, Chakra, and NextJS.
 
-![YouTube Channel](https://img.shields.io/youtube/views/SUjTIX0a1PM?style=social)
-![YouTube Channel](https://img.shields.io/youtube/likes/SUjTIX0a1PM?style=social)
-![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCMo28ATCDU0Kn9dpilAF79Q?style=social)
-
 ## Table of content
 
 - [Tech Stack](#tech-stack)
